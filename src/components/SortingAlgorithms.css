@@ -1,0 +1,11 @@
+.barsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.arrBar {
+    width: 7px;
+    display: inline-block;
+    background-color:#F2BC1B;
+    margin: 2.5px;
+}
